@@ -29435,7 +29435,7 @@
 	Object.defineProperty(exports, "__esModule", {
 	    value: true
 	});
-	var ROOT_URL = exports.ROOT_URL = 'http://backend-develop.eu-west-1.elasticbeanstalk.com';
+	var ROOT_URL = exports.ROOT_URL = 'http://backend.eu-west-1.elasticbeanstalk.com';
 
 	var TOKEN = exports.TOKEN = localStorage.getItem('token');
 	var TOKEN_SESSION = exports.TOKEN_SESSION = sessionStorage.getItem('token_session');
